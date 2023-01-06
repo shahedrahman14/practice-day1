@@ -1,0 +1,172 @@
+*{  margin: 0;
+    font-family: roboto;
+}
+header{
+    height: 400px;
+    background-image: url(images/donation8.jpg);
+    background-size: cover;
+}
+nav{
+    padding:100px 300px;
+    font-family: roboto;
+    color: rgb(238, 255, 7);
+    text-align: center;
+}
+nav .title{
+    font-weight:900;
+    color: rgb(238, 255, 7);
+    margin-bottom: 10px;
+
+    font-size: 25px;
+}
+.des{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.btn{
+   background-color: darkorange;
+   font-size: large;
+   color: aliceblue;
+   border-radius: 5px;
+   padding: 5px;
+   
+   border: none;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+.donate-today{
+    padding: 50px 300px;
+    text-align: center;
+}
+.title{
+    padding-top: 50px;
+    font-weight:900;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+  
+}
+.giv{
+   
+    display: flex;
+    justify-content: space-around;
+}
+.giv h1{
+    padding: 20px;
+    background-color: rgb(182, 161, 161);
+   
+    border-radius: 5px;
+    
+}
+.spi{
+    padding: 20px;
+    border: 4px rgb(255, 106, 0) solid;
+    background-color: rgb(124, 245, 10);
+    border-radius: 5px;
+    color: brown;
+    
+}
+#amount{
+    font-size: 30px;
+    border: none;
+
+}
+ .donate-plan .des{
+    margin-bottom: 40px;
+    padding: 0 400px;
+
+} 
+.type{
+    padding: 0 300px;
+    display: flex;
+    justify-content: space-around; 
+    gap: 30px;
+    margin-bottom: 50px;
+}
+.type .div1{
+    background-color: rgba(186, 235, 130, 0.671);
+    border: 0;
+   
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 15px 10px 20px rosybrown;
+}
+.div2 {
+    background-color: rgba(130, 205, 235, 0.671);
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 15px 10px 20px rosybrown;}
+.div3{
+    background-color: rgba(232, 130, 235, 0.671);
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 15px 10px 20px rosybrown;
+}
+.title{ margin-bottom: 5px;}
+.detail{
+    padding:0  300px;
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.detail a{
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    border-radius: 5px; 
+  
+  
+}
+
+.title2{}
+
+.update{
+    padding:0  300px;
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+}
+.update a{
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    border-radius: 5px; 
+}
+.get-update{
+    padding:0  300px;
+    text-align: center;
+}
+.foot {
+    display: flex;
+    width: 600px;
+    height: 100px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 5px;
+    padding:0 100px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightpink ;
+   
+}
+.last{
+    text-align: center;
+    padding: 60px;
+   
+    
+    
+}
+.mail{
+    height: 30px;
+    border-radius: 5px;
+   
+}
